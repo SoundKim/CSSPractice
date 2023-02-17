@@ -73,3 +73,12 @@ header{
     background-color: orange;
     /* color: white; */
 }
+
+.card > img {
+    height : 214.1px;
+}
+
+.content > div{
+    padding: 3%;
+
+}
